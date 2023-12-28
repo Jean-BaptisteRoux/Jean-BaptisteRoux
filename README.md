@@ -21,7 +21,7 @@ Je suis **Jean-Baptiste Roux**, un ancien informaticien en autodidate, actuellem
 
 - :star: Description : La pédagogie d'[Épitech](https://www.epitech.eu/) est basé sur la résolution de problème. Cette librairie regroupe toutes les fonctions réutilisables, créées lors de ces projets
 - :hammer_and_wrench: Technologies utilisées : [C](https://fr.wikipedia.org/wiki/C_(langage), [CSFML](https://www.sfml-dev.org/download/csfml/)
-- :link: Lien vers le code source : [Lien GitHub]
+- :link: Lien vers le code source : [LibMy](https://github.com/Jean-BaptisteRoux/LibMy)
 
 ## Compétences
 
