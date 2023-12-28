@@ -15,7 +15,7 @@ Je suis **Jean-Baptiste Roux**, un ancien informaticien en autodidate, actuellem
 
 - :star: Description : Le but de ce projet fut de créer un réseau de neurone capable de prédire à plus de 50% le comportement d'un cours marché selon un intervalle donné.
 - :hammer_and_wrench: Technologies utilisées : [Python](https://www.python.org/), [TensorFlow](https://www.tensorflow.org/)
-- :link: Lien vers le code source : [Lien GitHub]
+- :link: Lien vers le code source : [Prédiction-temporelle](https://github.com/Jean-BaptisteRoux/Pr-diction-temporelle)
 
 ### Projet 2: Création d'une librairie en c (2023)
 
