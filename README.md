@@ -1,11 +1,10 @@
 # Bienvenue sur mon profil GitHub ! :wave:
 
-Je suis **Jean-Baptiste Roux**, un ancien informaticien en autodidate, actuellement en première année à [Épitech](https://www.epitech.eu/)
+Je suis **Jean-Baptiste Roux**, un ancien informaticien en autodidacte, actuellement en première année à [Épitech](https://www.epitech.eu/)
 
 ## À propos de moi
 
-- :mortar_board: **Éducation :** Étudiant en première année à [Épitech](https://www.epitech.eu/)
-- :computer: **Domaines d'intérêt :** Developpement d'application permettant d'automatiser ou d'assister les actions humaines, [Le jeu de role](https://dnd.wizards.com/), [Doctor Who](https://www.doctorwho.tv/)
+- :computer: **Domaines d'intérêt :** Développement d'application permettant d'automatiser ou d'assister les actions humaines, [Le jeu de rôle](https://dnd.wizards.com/), [Doctor Who](https://www.doctorwho.tv/)
 - :seedling: **En apprentissage constant !**
   > **Le rire n'est pas un ennemi de l'apprentissage.** Walt Disney
 
@@ -17,7 +16,7 @@ Je suis **Jean-Baptiste Roux**, un ancien informaticien en autodidate, actuellem
 - :hammer_and_wrench: Technologies utilisées : [Python](https://www.python.org/), [TensorFlow](https://www.tensorflow.org/)
 - :link: Lien vers le code source : [Prédiction-temporelle](https://github.com/Jean-BaptisteRoux/Pr-diction-temporelle)
 
-### Projet 2: Création d'une librairie en c (2023)
+### Projet 2: Création d'une librairie de fonction basique en c (2023)
 
 - :star: Description : La pédagogie d'[Épitech](https://www.epitech.eu/) est basé sur la résolution de problème. Cette librairie regroupe toutes les fonctions réutilisables, créées lors de ces projets
 - :hammer_and_wrench: Technologies utilisées : [C](https://fr.wikipedia.org/wiki/C_(langage), [CSFML](https://www.sfml-dev.org/download/csfml/)
@@ -25,11 +24,11 @@ Je suis **Jean-Baptiste Roux**, un ancien informaticien en autodidate, actuellem
 
 ## Compétences
 
-- **Langages de programmation maitrisés :** *Python*, *C* 
+- **Langages de programmation maîtrisés :** *Python*, *C* 
 - **Langages de programmation connu:** *HTML*, *CSS*, *MySQL*, *Java*, *Markdown*, *Shell/Bash*
 - **Technologies connu:** Réseau de neurone, web scraping, GUI, ssh, librairie python (discord.py, subprocess, os, time ...)
 
-## Expérience professionnelle hors infromatique
+## Expérience professionnelle hors informatique
 
 - **1 ans** - [2021-2022]
   - Apprenti menuisier chez JPFMenuiserie à Saint-Tropez
@@ -43,11 +42,11 @@ Je suis **Jean-Baptiste Roux**, un ancien informaticien en autodidate, actuellem
 ## Éducation
 
 - **Baccalauréat avec mention**
-- **Brevet de seccourisme**
+- **Brevet de secourisme**
 
 ## Objectifs
 
-À court terme, je cherche à approfondir mes connaissances dans l'informatique afin de mieux comprendre mon métier. À long terme, je vise à potentiellement la création d'une entreprise de domotique, bien que je me sois pas fermé à l'idée de contribuer au travail d'une entrprise en tant de salarié.
+À court terme, je cherche à approfondir mes connaissances dans l'informatique afin de mieux comprendre mon métier. À long terme, je vise à potentiellement la création d'une entreprise de domotique, bien que je me sois pas fermé à l'idée de contribuer au travail d'une entreprise en tant de salarié.
 
 ## Contact
 
