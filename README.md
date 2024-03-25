@@ -28,7 +28,7 @@ Je suis **Jean-Baptiste Roux**, un ancien informaticien en autodidacte, actuelle
 - **Langages de programmation connu:** *HTML*, *CSS*, *MySQL*, *Java*, *Markdown*, *Shell/Bash*
 - **Technologies connu:** Réseau de neurone, web scraping, GUI, ssh, librairie python (discord.py, subprocess, os, time ...)
 
-## Expérience professionnelle hors informatique
+## Expérience professionnelle
 
 - **1 ans** - [2021-2022]
   - Apprenti menuisier chez JPFMenuiserie à Saint-Tropez
