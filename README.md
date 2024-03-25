@@ -10,13 +10,13 @@ Je suis **Jean-Baptiste Roux**, un ancien informaticien en autodidacte, actuelle
 
 ## Projets
 
-### Projet 1: Tentation de prédiction de cours bousiers (2022)
+### Projet 1: Tentation de prédiction de cours boursiers (2022)
 
 - :star: Description : Le but de ce projet fut de créer un réseau de neurone capable de prédire à plus de 50% le comportement d'un cours marché selon un intervalle donné.
 - :hammer_and_wrench: Technologies utilisées : [Python](https://www.python.org/), [TensorFlow](https://www.tensorflow.org/)
 - :link: Lien vers le code source : [Prédiction-temporelle](https://github.com/Jean-BaptisteRoux/Pr-diction-temporelle)
 
-### Projet 2: Création d'une librairie de fonction basique en c (2023)
+### Projet 2: Création d'une librairie de fonctions basiques en c (2023)
 
 - :star: Description : La pédagogie d'[Épitech](https://www.epitech.eu/) est basé sur la résolution de problème. Cette librairie regroupe toutes les fonctions réutilisables, créées lors de ces projets
 - :hammer_and_wrench: Technologies utilisées : [C](https://fr.wikipedia.org/wiki/C_(langage), [CSFML](https://www.sfml-dev.org/download/csfml/)
