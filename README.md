@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! :wave:
 
-Je suis **Jean-Baptiste Roux**, un ancien informaticien en autodidacte, actuellement en première année à [Épitech](https://www.epitech.eu/)
+Je suis **Jean-Baptiste Roux**, un ancien informaticien en autodidacte, actuellement en deuxième année à [Épitech](https://www.epitech.eu/)
 
 ## À propos de moi
 
